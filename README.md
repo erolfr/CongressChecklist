@@ -41,6 +41,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 - Charge ALL the batteries!
 - Make backups.
 - Bonus points for even testing restore.
+- Build a new (formatted) SSD into your laptop and leave the old home.
 - Update all the software on your devices.
 - You might want to empty your drives to make room for some COMPLETELY LEGAL media files that might be shared.
 - Put your name on your stuff, especially on things you’ll likely lend to someone (power strips, cables etc). Twitter handles make excellent name tags because people know how to contact you right away. Prefer permanent markers over stickers, for theft reasons.
@@ -203,7 +204,7 @@ Check the expiry date of the meds you bring.
 - Patches (Pflaster, for your webcam or if a MacBook AirFrisbee hit you)
 - Aspirin (If you partied too long…)
 - Thomapyrin (analgetic)
-- Parkemed (DE/AT), Ponstel (USA/UK) (analgetic)
+- Parkemed (AT), Ponstel (USA/UK) (analgetic)
 - Clarityn (or other histamine blocker if you're allergic to something)
 - Blister Pads. You will walk, a lot. 
 - Neocitran/Theraflu/Paracetamol (just in case hacker pest strikes)
